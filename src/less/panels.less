@@ -1,0 +1,29 @@
+//
+// Panels
+// --------------------------------------------------
+
+// Base class
+.panel {
+  .box-shadow(0 2px 6px rgba(0,0,0,.05));
+}
+.panel-heading {
+  padding: @panel-heading-padding;
+}
+
+// Contextual variations
+
+// Mixin for generating new styles
+.panel-heading-styles(@color) {
+  #gradient > .vertical(@start-color: @color; @end-color: darken(@color, 5%));
+}
+
+// Apply the mixin to the panel headings only
+.panel-rh-ex1 > .panel-heading   { .panel-heading-styles(@panel-default-heading-bg); }
+
+.panel-rh-ex1 {
+  .panel-variant-rh-ex1(@panel-default-border; @panel-rh-ex1-text; @panel-default-heading-bg; @panel-default-border);
+}
+
+
+
+

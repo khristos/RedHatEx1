@@ -1,0 +1,29 @@
+{
+  "name": "redhat-ex1",
+  "version": "1.0.0",
+  "description": "Red Hat exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Red",
+    "Hat",
+    "exercise",
+    "1"
+  ],
+  "author": "Christos",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.24.5",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-less": "^3.5.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
