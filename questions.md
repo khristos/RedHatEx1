@@ -3,7 +3,7 @@
 
 
 
-###Section 1 - Design & Development
+### Section 1 - Design & Development
 Q1
 Could you outline what you would consider to be the important considerations if you were asked to develop an enterprise-level web application?
 
@@ -20,7 +20,14 @@ Describe the approach you take in testing your applications.
 Q3
 What do you value in a code base?
 
-A. Simplicity, Clean code, Limited Dependencies, Documentation, On-boarding, Building, Testing, Integration Process, System Thinking, Open Standards
+A. 
+- Simplicity
+- Clean code
+- Limited Dependencies
+- Documentation, On-boarding
+- Building, Testing, Integration Process
+- System Thinking
+- Open Standards
 
 
 Section 2 - General 
