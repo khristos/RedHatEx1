@@ -53,6 +53,7 @@ could fix it:
 https://codepen.io/andresgalante/pen/WpwVzV
 
 1. Reduce width in .section or .aside
+
         section { 
           background: lightgreen;
           width: 72%;
@@ -66,10 +67,11 @@ https://codepen.io/andresgalante/pen/WpwVzV
         }
 
 2. Adjust margin
-aside { 
-  background: pink;
-  width: 25%;
-  float: right;
-  margin-right: -35px;
-}
+
+        aside { 
+          background: pink;
+          width: 25%;
+          float: right;
+          margin-right: -35px;
+        }
 
