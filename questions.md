@@ -7,7 +7,7 @@
 Q1
 Could you outline what you would consider to be the important considerations if you were asked to develop an enterprise-level web application?
 
-A
+A.
 - Bring value to the user
 - Scalability
 - Security, Redundancy
