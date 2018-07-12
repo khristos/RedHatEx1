@@ -13,6 +13,7 @@ A.
 - Security, Redundancy
 - Speed
 - Reliability, Usability, Monitoring
+- Design
 
 Q2
 Describe the approach you take in testing your applications.
