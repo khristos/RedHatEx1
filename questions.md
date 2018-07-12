@@ -3,17 +3,16 @@
 
 
 
-Section 1 - Design & Development 
+###Section 1 - Design & Development
 Q1
-Could you outline what you would consider to be the important considerations if you were asked
-to develop an enterprise-level web application?
+Could you outline what you would consider to be the important considerations if you were asked to develop an enterprise-level web application?
 
-A. 
-      1. Bring value to the user
-      2. Scalability
-      3. Security, Redundancy
-      4. Speed
-      5. Reliability, Usability, Monitoring 
+A
+- Bring value to the user
+- Scalability
+- Security, Redundancy
+- Speed
+- Reliability, Usability, Monitoring
 
 Q2
 Describe the approach you take in testing your applications.
