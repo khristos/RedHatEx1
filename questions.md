@@ -30,7 +30,7 @@ A.
 - Open Standards
 
 
-Section 2 - General 
+### Section 2 - General 
 Q1
 Tell us about a Red Hat product or open source project you really like, and why.
 
@@ -46,7 +46,7 @@ A. The opportunity to contribute to the Front-End tooling of my last permanent e
    I was also involved with developing a JavaScript API for communication between an online course and a Learning Management System.
 
 
-Exercise 3: Fix The Sidebar 
+### Exercise 3: Fix The Sidebar 
 The right sidebar here has fallen down below the content. Show us some different ways you
 could fix it:
 
