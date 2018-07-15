@@ -1,8 +1,5 @@
 
 
-
-
-
 ### Section 1 - Design & Development
 Q1
 Could you outline what you would consider to be the important considerations if you were asked to develop an enterprise-level web application?
@@ -76,3 +73,10 @@ https://codepen.io/andresgalante/pen/WpwVzV
           margin-right: -35px;
         }
 
+3. Remove float and width
+
+        aside {
+           background: pink;
+           //width: 25%;
+           //float: right;
+        }
