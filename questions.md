@@ -42,6 +42,7 @@ In your career to date, what are you most proud of and why?
 
 A. The opportunity to contribute to the Front-End tooling of my last permanent employer. 
    I was also involved with developing a JavaScript API for communication between an online course and a Learning Management System.
+   Contributing to the education of clinicians was a gratifying experience.
 
 
 ### Exercise 3: Fix The Sidebar 
